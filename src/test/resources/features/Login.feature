@@ -1,5 +1,5 @@
 @Login @Regression
-Feature: Authentication
+Feature: Authentication functionality
 
   Background: 
     Given I launch the application
