@@ -4,7 +4,7 @@ Feature: Authentication
   Background: 
     Given I launch the application
 
-  Scenario: Login with valid user
+  Scenario: Login with invalid user
     When I enter username "validuser" on login page
     And I enter password "password" on login page
     And I click on Submit button on login page
