@@ -2,9 +2,6 @@ package org.devlab.pageclass;
 
 import java.util.concurrent.TimeUnit;
 
-import org.devlab.utility.DriverFactory;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
 
 import org.junit.*;
 
