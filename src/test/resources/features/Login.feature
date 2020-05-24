@@ -1,6 +1,6 @@
 @Login @Regression @smoke
 
-Feature: validate user access
+Feature: authentication
 
 
   Background: 
