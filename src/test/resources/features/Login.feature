@@ -1,5 +1,5 @@
 @Login @Regression @smoke
-Feature: Authentication
+Feature: validate user access
 
   Background: 
     Given I launch the application
