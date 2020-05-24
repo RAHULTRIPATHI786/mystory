@@ -1,9 +1,6 @@
-@Login @Regression @smoke
 
-
-Feature: Login
-
-
+@Login @Regression
+Feature: Authentication functionality
 
 
   Background: 
