@@ -7,7 +7,7 @@ Feature: Login
 
 
   Background: 
-    Given I launch the application
+    Given I launch the application changes
 
   Scenario: Login with invalid user
     When I enter username "validuser" on login page
